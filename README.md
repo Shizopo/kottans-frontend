@@ -20,3 +20,8 @@
 
 ![Screenshot_4](/task_html_css_intro/intro_html_css-complete.png)
 ![Screenshot_5](/task_html_css_intro/html_academy-html_css-complete.png)
+
+## Responsive Web Design
+
+![Screenshot_6](/responsive_web_design/responsive_web_design_fundamentals-complete.png)
+![Screenshot_7](/responsive_web_design/flexbox_froggy-complete.png)
