@@ -25,3 +25,9 @@
 
 ![Screenshot_6](/responsive_web_design/responsive_web_design_fundamentals-complete.png)
 ![Screenshot_7](/responsive_web_design/flexbox_froggy-complete.png)
+
+## HTML & CSS practice: Popup
+
+[Demo](https://shizopo.github.io/html-css-popup/index.html)
+|
+[Code Base](https://github.com/Shizopo/html-css-popup)
